@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(112, 112, 16);
+    text-align: center;
+}
+h1{
+    font-display: block;
+    font-size: medium;
+    color: rgb(0, 0, 0);
+}
+
+img{
+     width: 500;
+}
+
+nav li{
+    display:inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+}
+
+footer{
+    
+text-align: center;
+padding: 40px 0;
+
+}
